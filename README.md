@@ -1,1 +1,10 @@
-# RL_ACIN_course
+## RL with the Forestry Crane
+Getting start
+```
+python **.py
+```
+## Requirements
+
+numpy\
+gymnasium\
+stable-baselines3
